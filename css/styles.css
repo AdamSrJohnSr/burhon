@@ -1,0 +1,162 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+
+
+h1{
+  font-family: 'Zen Dots', cursive;
+  font-size: 90px;
+  color: #77acf1;
+  margin-top: 0;
+}
+h2{
+  color: #77acf1;
+  font-size: 40px;
+  font-family: 'Zen Dots', cursive;
+
+}
+h3{
+  color: #77acf1;
+  font-family: 'Zen Dots', cursive;
+
+}
+
+
+
+p{
+  color: #40514E;
+  line-height: 2;
+  font-family: 'Merriweather' serif;
+}
+
+
+hr{
+  border-style: dotted;
+  color: #66bfbf;
+  border-bottom: none;
+  border-width: 10px;
+  width: 6%;
+  margin: 100px auto;
+}
+h3{
+  text-align: left;
+}
+
+span{
+  color: #02475e;
+}
+
+
+
+
+
+p{
+  margin-bottom: 40px;
+  font-family:  'Itim', cursive;
+
+}
+
+
+
+/* classes */
+
+.scott:hover{
+color: #f4eee8;
+
+}
+
+.name{
+  color: grey;
+}
+
+.footer-link{
+  color: #3328b8;
+  font-family: 'Montserrat', sans-serif;
+  margin: 100px 30px;
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  color: #E4F9F5;
+}
+
+.my-name{
+  color: #ff6701;
+  font-size: 50px;
+}
+
+.btn:hover{
+  background-color: #798777;
+
+}
+.copyright-message{
+  color: #EAF6F6;
+  font-size: 1rem;
+  padding: 20px 0;
+}
+.bottom-box{
+
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+.qwer{
+  color: #77acf1;
+font-size: 40px;
+}
+
+.programm-img{
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-left:30px;
+}
+.prg{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: right;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+.chess-img{
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right:30px;
+}
+.header{
+  background-color: lightblue;
+  margin-bottom: 40px;
+}
+
+.b{
+  color: grey;
+}
+.prog-img{
+  width: 25%;
+}
+
+.intro{
+  width: 25%;
+  margin: auto;
+}
+.zxcv{
+  color: #66bfbf;
+  text-align: center;
+}
+.btn{
+
+  background-color: #66bfbf;
+  padding: 20px 30px;
+  border-radius: 30px;
+  text-decoration: none;
+  color: white;
+}
+
+.class{
+  width: 30%;
+  margin: auto;
+}
